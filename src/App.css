@@ -1,0 +1,37 @@
+.App {
+  background-color: #e8c39e;
+  height: 625px;
+  margin: 0%;
+}
+
+.profile {
+  display: flex;
+  background-color: white;
+  margin-top: 60px;
+  margin-left: 0px;
+  width: 1100px;
+  height: 400px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 255, 0.2);
+  transform:scale(1.15);
+}
+.profiletext {
+  padding: 50px;
+}
+
+.btn {
+  padding-top: 10px;
+  margin-left: 600px;
+}
+
+.button {
+  background-color: transparent;
+}
+
+.timer {
+  margin-left: 630px;
+}
+
+.showimage {
+  margin-left: 520px;
+  margin-top: 60px;
+}
